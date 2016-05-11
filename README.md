@@ -13,7 +13,7 @@ Clone (or download and move) the repository into the folder /ext/rmcgirr83/edite
 
 ```
 cd phpBB3
-git clone https://github.com/rmcgirr83/phpbb-3.1-ext-editedposts_unread.git ext/rmcgirr83/editedposts_unread/
+git clone https://github.com/rmcgirr83/phpbb-3.1-ext-editedposts_unread.git ext/rmcgirr83/editedpostsunread/
 ```
 
 ### 2. activate
