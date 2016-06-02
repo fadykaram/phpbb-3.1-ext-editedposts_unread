@@ -9,7 +9,7 @@ This extension marks topic's last posts and first post as unread if they are edi
 ## Installation
 
 ### 1. clone
-Clone (or download and move) the repository into the folder /ext/rmcgirr83/editedposts_unread:
+Clone (or download and move) the repository into the folder /ext/rmcgirr83/editedpostsunread:
 
 ```
 cd phpBB3

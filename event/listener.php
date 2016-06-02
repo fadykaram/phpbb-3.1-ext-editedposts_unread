@@ -7,7 +7,7 @@
 *
 */
 
-namespace rmcgirr83\editedposts_unread\event;
+namespace rmcgirr83\editedpostsunread\event;
 
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
