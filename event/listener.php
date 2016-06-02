@@ -72,7 +72,7 @@ class listener implements EventSubscriberInterface
 
 				if (!function_exists('update_post_information'))
 				{
-					include ($this->phpbb_root_path . 'includes/functions_posting.' . $this->phpEx);
+					include ($this->root_path . 'includes/functions_posting.' . $this->php_ext);
 				}
 
 				update_post_information('forum', $event['data']['forum_id']);
